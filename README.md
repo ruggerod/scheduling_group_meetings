@@ -9,4 +9,4 @@ In the remaining ~30 min a selected speaker will present a topic choosing betwee
 * order of magnitude estimate
 
 Consult the shared calendar at [this link](https://www.google.com/calendar/render?mode=day&date=20180319T024840).
-Condult the detailed and updated schedule [here](scheduling_meetings.ipynb)
+Consult the detailed and updated schedule at the end of [this notebook](scheduling_meetings.ipynb)
